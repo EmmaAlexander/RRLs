@@ -1,0 +1,9 @@
+# Species File
+Calpha RRL_CI_alpha_d_30_330_MHz_Oonk.txt
+Cbeta RRL_CI_beta_d_30_330_MHz_Oonk.txt
+Halpha RRL_HI_alpha_d_30_330_MHz_Oonk.txt
+NO NO.txt
+OH OH_rest_HRK.txt
+H2CO H2CO_20_100MHz_splat.txt
+C3H C3H.txt
+t-HCOOH t_HCOOH_20_100MHz_splat.txt
